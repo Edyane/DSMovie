@@ -7,7 +7,6 @@
     --white: #fff;
     --text-light-gray: #aaa;
     --star-yellow: #fdbe4a;
-    --text-color: #fff;
 }
 
 * {
@@ -203,7 +202,7 @@ a, a:hover {
 }
 
 .dsmovie-pagination-box button img {
-    filter: brightness(0) saturate(100%) invert(22%) sepia(29%) saturate(5247%) hue-rotate(235deg) brightness(101%) contrast(89%);
+    filter: brightness(0) saturate(100%) invert(33%) sepia(40%) saturate(2969%) hue-rotate(338deg) brightness(84%) contrast(78%);
 }
 
 .dsmovie-pagination-box button:disabled {
