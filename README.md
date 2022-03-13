@@ -17,6 +17,6 @@
 ---
 
 ### Para acessar diretamente os códigos:
-- [index.html](src/index.html)
-- [form.html](src/form.html)
-- [style.css](src/css/style.css)
+- [index.html](index.html)
+- [form.html](form.html)
+- [style.css](css/style.css)
