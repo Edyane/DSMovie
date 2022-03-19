@@ -14,9 +14,3 @@
 
 ![ProjetoDSMovie](https://cdn.discordapp.com/attachments/887544607599120404/952572785673261197/unknown.png)
 
----
-
-### Para acessar diretamente os códigos:
-- [index.html](index.html)
-- [form.html](form.html)
-- [style.css](css/style.css)
