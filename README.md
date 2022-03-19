@@ -16,7 +16,7 @@
 
 ---
 
-!--### Para acessar diretamente os códigos:
+### Para acessar diretamente os códigos:
 - [index.html](index.html)
 - [form.html](form.html)
-- [style.css](css/style.css)--!
+- [style.css](css/style.css)
